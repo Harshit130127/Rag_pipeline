@@ -1,0 +1,8 @@
+This is the content of document , it is about python programming 
+and its applications in data science.
+Python is a versatile language that is widely used in various fields.
+keyfeatures include simplicity, readability, and a vast ecosystem of libraries.
+  
+it has verstaile uses including web development, data analysis, machine learning, and automation.
+  
+    

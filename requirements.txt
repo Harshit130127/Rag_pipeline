@@ -1,5 +1,23 @@
-langchain
-langchain-core
-langchain-community
+# Core LangChain packages
+langchain>=0.3.0
+langchain-community>=0.3.0
+
+# Document loaders
 pypdf
 pymupdf
+
+# Embeddings
+sentence-transformers>=2.5.1
+
+# Vector stores (choose one or both)
+faiss-cpu          # fast, in-memory
+chromadb           # persistent, disk-based
+
+# Utilities
+numpy
+pandas
+tqdm
+rich
+
+# Notebook / experiments
+jupyter

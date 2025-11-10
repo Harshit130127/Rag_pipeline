@@ -28,7 +28,7 @@ FAISS / Vector Databases (planned)
 
 ## Note
 
-This repository is now **archived** — it remains public for reference and learning.  
+This repository is now **archived** it remains public for reference and learning.  
 Future work may include:
 - Embedding generation using OpenAI or HuggingFace models.  
 - Retrieval and query-answering chain setup.  
